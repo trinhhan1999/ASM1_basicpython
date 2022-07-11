@@ -1,0 +1,48 @@
+{
+    "Employee": [
+        {
+            "salary": 500000,
+            "Name": "NVA",
+            "Level": "ql",
+            "working_days": 24,
+            "Performance": 1,
+            "late_working_date": 4,
+            "ID_department": "MKT001",
+            "ID": "NV004",
+            "Bonus": 500000
+        },
+        {
+            "salary": 300000,
+            "Name": "NVC",
+            "Level": "nv",
+            "working_days": 24,
+            "Performance": 0.8,
+            "late_working_date": 4,
+            "ID_department": "002",
+            "ID": "001",
+            "Bonus": 500000
+        },
+        {
+            "salary": 300000,
+            "Name": "NVD",
+            "Level": "nv",
+            "working_days": 25,
+            "Performance": 0.9,
+            "late_working_date": 4,
+            "ID_department": "006",
+            "ID": "005",
+            "Bonus": 700000
+        },
+        {
+            "salary": 400000,
+            "Name": "NVE",
+            "Level": "ql",
+            "working_days": 25,
+            "Performance": 1.0,
+            "late_working_date": 3,
+            "ID_department": "008",
+            "ID": "007",
+            "Bonus": 500000
+        }
+    ]
+}
